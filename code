@@ -133,7 +133,7 @@ void loop() {
         u8g.setPrintPos(36,36);
         u8g.print("GOOD! ");
     }while(u8g.nextPage());
-    setColor(0, 0, 255);  //Orage
+    setColor(0, 0, 255);  //Blue
       noTone(13);   
    
     }
